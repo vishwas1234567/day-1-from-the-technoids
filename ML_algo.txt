@@ -1,0 +1,24 @@
+Interesting Applications on Machine Learning
+
+Machine learning has lots of applications. So it really just depends on what you call "interesting," which is subjective. Since interests vary from person to person, and since I have no idea what you're interested in, I'll simply list some typical applications.
+
+- detecting fraud at banks
+- identifying which consumers are most likely to respond favorably to: direct mail, Groupon deals, Facebook advertisements
+- trading stocks and derivatives
+- pricing insurance premiums (Google recently funded a startup that helps natural disaster insurance companies determine prices based on weather patterns due to global warming)
+- identifying human genes that make people more likely to develop cancer
+- predicting housing prices for real estate companies
+- predicting wine-tasting ratings
+- programmatically reading text from a random photograph
+- programmatically recognizing faces
+- autonomous, self-driving cars
+- anti-virus software (packet inspection)
+- factory maintenance diagnostics 
+- delayed airplane flights
+- determining which voters to canvass during an election
+- developing pharmaceutical drugs (combinatorial chemistry)
+- predicting tastes in music (Pandora)
+- predicting tastes in movies/shows (Netflix)
+- search engines (Google)
+- predicting interests (Facebook)
+- predicting other books you might like (Amazon)
